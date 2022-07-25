@@ -22,4 +22,5 @@ To run this project you just need to enter:
 $ npm start
 ```
 
-![tekst alternatywny](quizApp/src/images/sample.png)
+And that's it, you will have the fully working application.
+![Sample of app](quizApp/src/images/sample.png)
